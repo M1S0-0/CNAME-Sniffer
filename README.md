@@ -14,7 +14,7 @@ CNAME Sniffer is a powerful subdomain takeover tool built for security professio
 - Uses publicly available payloads and methods for takeover attempts.
 - Lightweight and simple to use.
 
-  ## Requirements
+## Requirements
 
 This tool uses the following Python libraries:
 - `colorama` (for colored output)
