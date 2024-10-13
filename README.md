@@ -33,7 +33,7 @@ Before using CNAME Sniffer, make sure you have:
 ## Command Syntax
 - python3 cname_sniffer.py -f <file_with_subdomains>
 
-- This will scan the subdomains listed in the file and identify any vulnerable CNAME records that could be exploited for subdomain takeover.
+ This will scan the subdomains listed in the file and identify any vulnerable CNAME records that could be exploited for subdomain takeover.
 
 ## Legal Disclaimer
 This tool is intended only for educational purposes and for testing in authorized environments. The developers, **M1S0** and [https://x.com/UnknownMnz](https://x.com/UnknownMnz), take no responsibility for any misuse of this code. Use it at your own risk. Ensure you have permission to test the target you are engaging with.
