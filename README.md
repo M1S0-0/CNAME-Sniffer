@@ -30,6 +30,18 @@ Before using CNAME Sniffer, make sure you have:
 ##  Usage
 - To use CNAME Sniffer, provide an input file containing the list of subdomains you want to scan.
 
+## Supported Services for Subdomain Takeover:
+- AWS S3
+- GitHub Pages
+- Heroku
+- Shopify
+- Tumblr
+- Azure
+- Bitbucket
+- Fastly
+- Ghost
+- And many more...
+
 ## Command Syntax
 - python3 cname_sniffer.py -f <file_with_subdomains>
 
