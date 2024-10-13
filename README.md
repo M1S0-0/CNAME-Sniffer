@@ -46,6 +46,8 @@ First, clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/M1S0-0/CNAME-Sniffer.git
 cd CNAME_Sniffer
-pip install -r requirements.txt
-python3 cname_sniffer.py -h
-python3 cname_sniffer.py -f subdomain_list.txt
+pip install -r requirements.txt   [If you already have packages, don't use this command.]
+chmod +x cname_sniffer.py 
+python3 cname_sniffer.py -f subdomains_list.txt
+
+
