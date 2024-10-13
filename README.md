@@ -44,7 +44,7 @@ This tool is intended only for educational purposes and for testing in authorize
 First, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your_username/CNAME_Sniffer.git
+git clone https://github.com/M1S0-0/CNAME-Sniffer.git
 cd CNAME_Sniffer
 pip install -r requirements.txt
 python3 cname_sniffer.py -h
